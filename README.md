@@ -2,7 +2,7 @@
 
 Este proyecto se desarrolló en Vue js (2)
 
-## Requisitos que debes tener installado en tu sistama operativo
+## Requisitos que debes tener installado en tu sistema operativo
 
 - Node js : https://nodejs.org/es/download/
 - Vue.js : npm install vue
