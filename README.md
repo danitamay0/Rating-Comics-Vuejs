@@ -1,24 +1,24 @@
 # rating-comics
 
-## Project setup
+## Configuración del proyecto (Instalar dependencias de Node)
 ```
-npm install
+npm install 
 ```
 
-### Compiles and hot-reloads for development
+### Compliar el proyecto (Hot reloads) para desarrolo local
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Se abrirá el puerto 8080 con la aplicación
+```
+http://localhost:8080
+```
+
+
+### Compilar para producción
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
